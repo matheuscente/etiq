@@ -1,0 +1,15 @@
+body {
+    font-family: 'Pacifico';
+    font-size: 20px;
+    padding: 40px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+P {
+    border: 2px solid black;
+    display: block;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
